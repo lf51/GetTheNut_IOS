@@ -15,6 +15,7 @@ import Firebase
  - Gestire dati di ogni livello su Firebase - √Fatto
  - Connettere tutto con Firebase - Classifica unica su GameKit - √Fatto
  
+ // INFO VERSIONE -- Creata nuova Branca dal commit 1b11a6c3ff1c4c3d9638c1e2c58667c6b2512401 -- Caricata su AppStore come aggiornamento della GetTheNut pubblicata con IDApple: 1593070140 -- Creeremo una nuova Repo che partirà da questa.
  */
 
 @main
